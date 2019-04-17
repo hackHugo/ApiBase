@@ -1,0 +1,17 @@
+{
+    "name": "fmelchor/ApiBase",
+    "description": "paquete para iniciar estructurar una api mas rapido",
+    "authors": [
+        {
+            "name": "hugo melchor",
+            "email": "melchor241@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "fmelchor\\ApiBase\\":"/src"
+        }
+    }
+}
