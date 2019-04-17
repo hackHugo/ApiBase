@@ -1,5 +1,5 @@
 <?php
-namespace ApiBase\utils;
+namespace fmelchor\apibase\utils;
 
 use Carbon\Carbon;
 use Firebase\JWT\JWT;

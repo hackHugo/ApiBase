@@ -5,12 +5,12 @@
  * Date: 17/04/19
  * Time: 10:13 AM
  */
-namespace ApiBase\Middleware;
-use ApiBase\utils\Token;
+namespace fmelchor\apibase\Middleware;
+use fmelchor\apibase\utils\Token;
 use Closure;
 use Carbon\Carbon;
-use ApiBase\Traits\ReplyTrait;
-use ApiBase\Responses\Responses;
+use fmelchor\apibase\Traits\ReplyTrait;
+use fmelchor\apibase\Responses\Responses;
 class AuthenticateApiBase
 {
     use ReplyTrait;

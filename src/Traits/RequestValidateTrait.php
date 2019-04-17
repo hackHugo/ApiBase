@@ -6,9 +6,9 @@
  * Time: 08:42 PM
  */
 
-namespace ApiBase\Traits;
+namespace fmelchor\apibase\Traits;
 
-use ApiBase\Helpers\ResponseRequestValidate;
+use fmelchor\apibase\Helpers\ResponseRequestValidate;
 
 
 use Illuminate\Http\Request;

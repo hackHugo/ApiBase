@@ -6,7 +6,7 @@
  * Time: 08:44 PM
  */
 
-namespace ApiBase\Helpers;
+namespace fmelchor\apibase\Helpers;
 
 
 class ResponseRequestValidate

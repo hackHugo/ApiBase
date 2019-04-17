@@ -5,7 +5,7 @@
  * Date: 20/10/2018
  * Time: 06:34 PM
  */
-namespace ApiBase\Contracts;
+namespace fmelchor\apibase\Contracts;
 interface RequestValidationInterface
 {
   public function rules();

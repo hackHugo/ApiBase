@@ -6,7 +6,7 @@
  * Time: 06:54 PM
  */
 
-namespace ApiBase\Responses;
+namespace fmelchor\apibase\Responses;
 
 
 class Responses

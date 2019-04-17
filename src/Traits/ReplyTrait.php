@@ -6,10 +6,10 @@
  * Time: 06:47 PM
  */
 
-namespace ApiBase\Traits;
+namespace fmelchor\apibase\Traits;
 
 
-use ApiBase\Responses\Responses;
+use fmelchor\apibase\Responses;
 
 trait ReplyTrait
 {
