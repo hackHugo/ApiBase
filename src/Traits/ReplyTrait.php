@@ -9,7 +9,7 @@
 namespace fmelchor\apibase\Traits;
 
 
-use fmelchor\apibase\Responses;
+use fmelchor\apibase\Response\Responses;
 
 trait ReplyTrait
 {
